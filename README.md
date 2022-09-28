@@ -6,7 +6,6 @@
 
 **Links:**
 Project Presentation: [Slideshow](https://docs.google.com/presentation/d/1wzqfaKUjBtX8FeTKpKsxlLXe9WXFpYx8/edit#slide=id.p1)
-Dataset : [Dataset](https://drive.google.com/drive/folders/1bjDKYA8zeAepgGbF8WoyMiPT0fqVRgdw)
 
 # Content:
 The data are downloaded from the South Korean website named SEOUL OPEN DATA PLAZA. One-year data are used in this research. The period of the dataset is 365 days (12 months) from December 2017 to November 2018. From the data, the count of the rental bikes rented at each hour is calculated.
