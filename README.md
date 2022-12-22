@@ -2,8 +2,6 @@
 
 # This project will be explored over the previous data in order to predict the number of bikes that can be rented per hour by the company. So that customers can get the best experience without any delays. We will build different regression models and check which proves to be the best for the deployment.
 
-**Team Members: Kunika Gupta, Rajesh kumar, Prayag Raj Dubey, Shivank Dubey, Parul Sharma**
-
 **Links:**
 Project Presentation: [Slideshow](https://docs.google.com/presentation/d/1wzqfaKUjBtX8FeTKpKsxlLXe9WXFpYx8/edit#slide=id.p1)
 
