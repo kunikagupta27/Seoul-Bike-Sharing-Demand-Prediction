@@ -1,16 +1,19 @@
-# Seoul-Bike-Sharing-Demand-Prediction
+<p align="center"> 
+</p>
+<h1 align="center"> Seoul Bike Sharing Demand Prediction </h1>
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
-# This project will be explored over the previous data in order to predict the number of bikes that can be rented per hour by the company. So that customers can get the best experience without any delays. We will build different regression models and check which proves to be the best for the deployment.
+<p>In this project I explored over the previous data in order to predict the number of bikes that can be rented per hour by the company. So that customers can get the best experience without any delays.</p>
 
 **Links:**
-Project Presentation: [Slideshow](https://docs.google.com/presentation/d/1wzqfaKUjBtX8FeTKpKsxlLXe9WXFpYx8/edit#slide=id.p1)
+Presentation: [Slideshow](https://docs.google.com/presentation/d/1wzqfaKUjBtX8FeTKpKsxlLXe9WXFpYx8/edit#slide=id.p1)
 
-# Content:
+<h2> :floppy_disk: Content </h2>
 The data are downloaded from the South Korean website named SEOUL OPEN DATA PLAZA. One-year data are used in this research. The period of the dataset is 365 days (12 months) from December 2017 to November 2018. From the data, the count of the rental bikes rented at each hour is calculated.
 
-# Steps involved doing this project:-
+<h2> :book: Steps Involved in this Project </h2>
 
-**Loading and discovering data:**
+**Loading and Discovering Data:**
 
 Here, we need to load our data from the external source, which in this case is uploaded to the drive. The data is in the format of the CSV (Comma Separated Values) file.
 
@@ -22,43 +25,7 @@ Data cleaning is an important step in the data analytics process in which you ei
 
 Exploratory Data Analysis is the approach of analyzing data, gathering and summarizing the important characteristics of the information, and using simple visualization that makes it easier to understand.
 
-**Importing necessary modules and libraries:**
-
-We are importing the following libraries for their respective applications:
-
-**Pandas:-**
-
-Pandas is used to analyze data. It has functions for analyzing, cleaning, exploring, and manipulating data.
-
-**Matplotlib:-**
-
-Matplotlib is a graph plotting library in python that serves as a visualization utility. Most of the Matplotlib utilities lie under the pyplot submodule.
-
-**Numpy:-**
-
-NumPy is a Python library used for working with arrays. It also has functions for working in the domain of linear algebra, Fourier transform, and matrices.
-
-**SciKit:-**
-
-Scikit-learn (Sklearn) is the most useful and robust library for machine learning in Python. It provides a selection of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction via a consistent interface in Python. This library, which is largely written in Python, is built upon NumPy, SciPy and Matplotlib.
-
-**Plotly:-**
-
-The plotly is an interactive, open-source plotting library that supports over 40 unique chart types covering a wide range of statistical, financial, geographic, scientific, and 3-dimensional use-cases.
-
-**Seaborn:-**
-
-Seaborn is a library that uses Matplotlib underneath to plot graphs. It will be used to visualize random distributions.
-
-**Datetime:-**
-
-The Datetime module supplies classes for manipulating dates and times. While date and time arithmetic is supported, the focus of the implementation is on efficient attribute extraction for output formatting and manipulation.
-
-**Statsmodels:-**
-
-Statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
-
-# Conclusion:-
+<h2> :clipboard: Conclusions </h2>
 
 Comparison of RMSE values for Test Data as lower the RMSE better the model performance:
 
@@ -84,7 +51,19 @@ GradientBoostingRegressor RMSE: 4.824
 
 • In conclusion, the demand prediction for the given Seoul bike sharing dataset can be accurately predicted using XGBoost Regressor and Gradient Boost Regressor.
 
+<!-- CREDITS -->
+<h2 id="credits"> :scroll: Credits</h2>
 
+Kunika Gupta | Data Science Enthusiast | Python | Alteryx | MySql | Tablaeu | Excel | Machine Learning
+
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunika0927/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunikagupta27)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kunika.gupta27)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/drive/folders/1sM1uv2UDomAGUR6ayLgp_wMvkbSbcZIH?usp=share_link)
 
 
 
